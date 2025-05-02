@@ -9,13 +9,13 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "https://paul-babalola.github.io/applewebsite",
-
   "dependencies": {
     "@sentry/react": "^9.15.0",
     "@sentry/vite-plugin": "^3.3.1",
+    "gsap": "^3.13.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
