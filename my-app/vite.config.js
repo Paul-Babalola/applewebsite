@@ -11,6 +11,7 @@ export default defineConfig({
     org: "paulbabalola",
     project: "javascript-react"
   })],
+  base: '/applewebsite/',
 
   build: {
     sourcemap: true
