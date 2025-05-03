@@ -13,6 +13,7 @@
   },
   "homepage": "https://paul-babalola.github.io/applewebsite",
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@sentry/react": "^9.15.0",
     "@sentry/vite-plugin": "^3.3.1",
     "gsap": "^3.13.0",
