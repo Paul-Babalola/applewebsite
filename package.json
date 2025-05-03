@@ -14,11 +14,13 @@
   "homepage": "https://paul-babalola.github.io/applewebsite",
   "dependencies": {
     "@gsap/react": "^2.1.2",
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
     "@sentry/react": "^9.15.0",
     "@sentry/vite-plugin": "^3.3.1",
     "gsap": "^3.13.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "three": "^0.176.0"
   },
   "devDependencies": {
