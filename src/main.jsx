@@ -26,7 +26,5 @@ Sentry.init({
 const AppWithProfiler = Sentry.withProfiler(App); // ✅ Move it here
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
     <AppWithProfiler />
-  </React.StrictMode>
 );
